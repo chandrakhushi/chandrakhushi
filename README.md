@@ -3,7 +3,7 @@
 </div>
 <h4 align="center"> 🎓 Undergrad (Computer Science) Student @<a href="https://www.sjsu.edu">San Jose State University</a> </h4>
 
-- 👀 I’m actively looking for Summer 2023 internships in Computer Science
+- 👀 I’m actively looking for Summer 2024 internships in Computer Science
 - 👩🏻‍💻 All of my projects are available on [my personal website](http://ikhushi.com)
 - 🌱 I’m currently learning Android Development, Website Development, Competitive Programming 
 - 📫 You can reach me **[here](mailto:khushi.chandra@outlook.com)**

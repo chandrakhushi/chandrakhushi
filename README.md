@@ -29,7 +29,7 @@ I’m a **Computer Science student at San Jose State University**, graduating in
    - A PWA for preserving family recipes, featuring AI transcription tools.
    - Supports interactive features using OpenAI’s Whisper and FetchAI.
 
-- **[Just 10 Moves](https://github.com/khushi-chandra/just-10-moves)**  
+- **[Just 10 Moves](https://github.com/chandrakhushi/Just-10-Moves)**  
    - An engaging Android game using efficient algorithms for number guessing.
 
 ---

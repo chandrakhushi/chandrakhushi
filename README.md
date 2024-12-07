@@ -21,21 +21,16 @@ I’m a **Computer Science student at San Jose State University**, graduating in
 
 ## 🛠️ My Projects
 ### 🔗 Featured Projects
-- **[AI-Powered Chat Summarization](https://github.com/khushi-chandra/ai-powered-chat-summary)**  
+- **[AI-Powered Chat Summarization](https://github.com/megaDeathChav/asapp-project)**  
    - Developed scalable AI solutions for structuring unstructured chat data using LLMs.
-   - Included a [detailed README](https://github.com/khushi-chandra/ai-powered-chat-summary) with methodology, results, and API integration guides.
+   - Included a [detailed README](https://github.com/megaDeathChav/asapp-project/blob/main/README.md) with methodology, results, and API integration guides.
    
-- **[HeriTaste](https://github.com/khushi-chandra/heritaste-digital-cookbook)**  
+- **[HeriTaste](https://devpost.com/software/heritaste)**  
    - A PWA for preserving family recipes, featuring AI transcription tools.
    - Supports interactive features using OpenAI’s Whisper and FetchAI.
 
 - **[Just 10 Moves](https://github.com/khushi-chandra/just-10-moves)**  
    - An engaging Android game using efficient algorithms for number guessing.
-
----
-
-## 📈 GitHub Stats
-![Khushi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushi-chandra&show_icons=true&theme=radical)
 
 ---
 
